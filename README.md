@@ -1,1 +1,1 @@
-# JSegments: Interactive Application for the Creation and Application of Orthography Profiles
+# JSegments: Interactive Creation and Application of Orthography Profiles
